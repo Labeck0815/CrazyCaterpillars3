@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCBfbD89E5184B94c8aa8AF5BD31BcC5E6ee40b11",
+  "SCAN_LINK": "https://polygonscan.com/token/0xCBfbD89E5184B94c8aa8AF5BD31BcC5E6ee40b11",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crazy Caterpillars",
+  "SYMBOL": "CCNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/crazy-caterpillars",
+  "SHOW_BACKGROUND": true
+}
